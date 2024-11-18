@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "260992200166",
+    "project_id": "easyshopping-751d5",
+    "storage_bucket": "easyshopping-751d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260992200166:android:7c36e332cbdb97d5dd7a27",
+        "android_client_info": {
+          "package_name": "com.example.admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260992200166-7kuta5b3qenco28n5omob7n94ng9k67u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuA_pMY9ZeWT9wWB8wiOrJBXPqjq7LxyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260992200166-7kuta5b3qenco28n5omob7n94ng9k67u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260992200166-hmfg62dddg3gvejv9pl6nk3gnleh8af4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appBanhang"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260992200166:android:955e784bf2987fbcdd7a27",
+        "android_client_info": {
+          "package_name": "com.example.app_banhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260992200166-v01743kgehfrv1vgcdhht0fpm94dqb1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_banhang",
+            "certificate_hash": "9a9009a1b954592110d68fb7fd65986fc3332a7a"
+          }
+        },
+        {
+          "client_id": "260992200166-7kuta5b3qenco28n5omob7n94ng9k67u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuA_pMY9ZeWT9wWB8wiOrJBXPqjq7LxyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260992200166-7kuta5b3qenco28n5omob7n94ng9k67u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260992200166-hmfg62dddg3gvejv9pl6nk3gnleh8af4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appBanhang"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
